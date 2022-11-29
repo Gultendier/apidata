@@ -1,2 +1,2 @@
 # apidata
-Just a Webpage to host a api.
+Just a Webpage to host an api.
