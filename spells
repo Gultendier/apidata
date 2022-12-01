@@ -18,14 +18,14 @@
     "name": "Aid",
     "url": "/api/spells/aid",
     "characterclass": "Cleric, Paladin",
-    "desc": "Test."
+    "desc": "When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd."
   },
   {
     "index": "alarm",
     "name": "Alarm",
     "url": "/api/spells/alarm",
     "characterclass": "Ranger, Wizard",
-    "desc": "Test."
+    "desc": "You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube. Until the spell ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is mental or audible."
 
   },
   {
@@ -41,7 +41,7 @@
     "name": "Animal Friendship",
     "url": "/api/spells/animal-friendship",
     "characterclass": "Bard, Druid, Ranger",
-    "desc": "Test."
+    "desc": "This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a wisdom saving throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spells ends."
 
   },
   {
